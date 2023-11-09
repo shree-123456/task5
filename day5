@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <tittle><h1>concert in india</h1></tittle>
+        <table>
+            <style>
+                table,th,tr,td{
+                border:1px solid black
+                }
+            </style>
+        </table>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>sl.no</th>
+                <th>name of the singer</th>
+                <th>photo</th>
+                <th>date</th>
+                <th>demo performance</th>
+                <th>personal details</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>anirudh</td>
+                <td><img src="../10kcoders/anirudh.jpg"height=150></td>
+                <td>3-11-2023</td>
+                <td><iframe width="150" height="150" src="https://www.youtube.com/embed/nGeHstBtoH0?si=GFb--M4e7JKPUtxK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+                <td><iframe src="https://en.wikipedia.org/wiki/Anirudh_Ravichander"></iframe></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>hiphop thamizan</td>
+                <td><img src="../10kcoders/hiphop.jpg"height=150></td>
+                <td>4-11-2023</td>
+                <td><iframe width="150" height="150" src="https://www.youtube.com/embed/Wiw52WjScmI?si=TplApNcMjKvxDtEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+                <td><iframe src="https://en.wikipedia.org/wiki/Hiphop_Tamizha"></iframe></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>thaman</td>
+                <td><img src="../10kcoders/thaman.jpg"height=150 width="150"></td>
+                <td>5-11-2023</td>
+                <td><iframe width="150" height="150" src="https://www.youtube.com/embed/TGi8sJqifck?si=Dd86-Y8_mLsEUPNy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+                <td><ifram src="https://en.wikipedia.org/wiki/Thaman_S"></ifram></td>
+            </tr>
+                <td>4</td>
+                <td>mm keeravani</td>
+                <td><img src="../10kcoders/mmk.jpg"height=150 width="150"></td>
+                <td>6-11-2023</td>
+                <td><iframe width="150" height="150" src="https://www.youtube.com/embed/XKsVllytosY?si=BPuK-QqvnkHQYN8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+                <td><iframe src="https://en.wikipedia.org/wiki/M._M._Keeravani"></iframe></td>
+                <tr>
+                    <td>5</td>
+                    <td>dsp</td>
+                    <td><img src="../10kcoders/dsp.webp"height=150 width=150></td>
+                    <td>7-11-2023</td>
+                    <td><iframe width="150" height="150" src="https://www.youtube.com/embed/uDBSqFdpGoI?si=hDLpN6S501L-uleg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+                    <td><iframe src="https://en.wikipedia.org/wiki/Devi_Sri_Prasad"></iframe></td>
+                </tr>
+            </table> 
+                <form>
+                    <lable for="fname">firstname :</lable>
+                    <input name="fname" id="fname" type="text" placeholder="entername"/><br><br>
+                    <lable for="pswrd">pswrd :</lable>
+                    <input name="pswrd" id="pswrd" type="password" placeholder="enter password"/><br><br>
+                    <lable for="mobile num"> mobile number :</lable>
+                    <input name="mobile num" id="mobile number" type="mobile number" placeholder="enter mobile number"/><br><br>
+                    <lable for="dob">DOB :</lable>
+                    <input name="dob" id="dob" type="datetime-local" placeholder="enterdob"/>
+                </form>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d121454.16469701646!2d79.52178506800303!3d17.958131570542022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a33450bd75e4be7%3A0x9306909c277bc137!2sWarangal%2C%20Telangana!5e0!3m2!1sen!2sin!4v1699076745956!5m2!1sen!2sin" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </body>
+</html>
+
